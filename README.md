@@ -80,22 +80,6 @@ public class dowhile {
 			System.out.println(contador);
 		}
 		
-	//__________________________________________________________________________
-		
-		System.out.println("Programação oritentada a objeto - POO.");
-		
-		System.out.println("Pilares: ");
-		System.out.println("Abstração.");
-		System.out.println("Herança."); 
-		System.out.println("Polimorfismo.");
-		System.out.println("Emcapsulamento.");
-        	
-		
-		
-		
-		
-		
-		
 	}
 
 }
