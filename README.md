@@ -38,8 +38,8 @@ public class dowhile {
         } else { 
         	System.out.println("Entre com o sexo correto. M/F");
         }*/
-        
-		//_____________________________________________________________________
+     
+		//____________________________________________________________________
 		
         /*System.out.println("Uso do 'For'");
         
@@ -79,6 +79,22 @@ public class dowhile {
 		while (contador <= 10) {
 			System.out.println(contador);
 		}
+		
+	//__________________________________________________________________________
+		
+		System.out.println("Programação oritentada a objeto - POO.");
+		
+		System.out.println("Pilares: ");
+		System.out.println("Abstração.");
+		System.out.println("Herança."); 
+		System.out.println("Polimorfismo.");
+		System.out.println("Emcapsulamento.");
+        	
+		
+		
+		
+		
+		
 		
 	}
 
